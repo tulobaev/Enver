@@ -167,6 +167,11 @@ p {
   background-color: rgba(30, 30, 32, 1);
   border-radius: 14px;
 }
+.box-content img,
+.box-content2 img,
+.box-content3 img {
+  width: 100%;
+}
 .box-content2 {
   align-self: center;
   padding: 24px;
