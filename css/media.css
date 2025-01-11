@@ -25,7 +25,7 @@
   }
   .content {
     padding-block: 50px;
-    gap: 30px;
+    gap: 50px;
   }
 }
 @media (max-width: 700px) {
@@ -41,5 +41,10 @@
   }
   #section {
     padding-block: 30px;
+  }
+  .btn-box {
+    width: 166px;
+    height: 45px;
+    font-size: 16px;
   }
 }
